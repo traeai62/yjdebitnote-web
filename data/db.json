@@ -1,0 +1,56 @@
+{
+  "lastSequence": 720,
+  "debitNotes": [
+    {
+      "date": "2025-12-09",
+      "refNo": "YJ2-251209-720",
+      "toCompany": "Samsung",
+      "attn": "DESLY RAINI MUTIARA DEWI",
+      "title": "CLAIM LETTER",
+      "claimType": "Painting Charge",
+      "styleInfo": "",
+      "currency": "USD",
+      "amountInWords": "Say : Three Hundred Forty Five Dollars And Eighty Cents Only",
+      "lines": [
+        {
+          "styleDescription": "Shading ABC",
+          "orderQty": "100",
+          "unit": "pcs",
+          "unitPrice": "0.52",
+          "totalAmount": 52
+        },
+        {
+          "styleDescription": "Shading ABC",
+          "orderQty": "565",
+          "unit": "pcs",
+          "unitPrice": "0.52",
+          "totalAmount": 293.8
+        }
+      ],
+      "beneficiaryName": "PT. YONGJIN JAVASUKA GARMENT (Fty II)",
+      "bankName": "KEB HANA BANK CIBUBUR BRANCH",
+      "bankAddress": "Ruko Raffles Hills Blok AB No. 2 Jl. Alternatif Cibubur, Depok 16454, Indonesia",
+      "accountNo": "1690013390002",
+      "swiftCode": "HNBNIDJA",
+      "issuerCompanyName": "PT. YONGJIN JAVASUKA GARMENT (Fty II)",
+      "issuerSignerName": "Mr. Howard Chae",
+      "issuerSignerTitle": "President Director",
+      "buyerCompanyName": "Samsung",
+      "buyerSignerName": "",
+      "internalSigner1Name": "Syaiful Umam",
+      "internalSigner1Title": "Merchandiser",
+      "internalSigner2Name": "DONNA KIM",
+      "internalSigner2Title": "Manager",
+      "internalSigner3Name": "JH LEE",
+      "internalSigner3Title": "General Manager",
+      "internalSigner4Name": "HOWARD CHAE",
+      "internalSigner4Title": "President Director",
+      "totalQty": 665,
+      "totalAmount": 345.8,
+      "id": "73fff0b0-4223-484a-ad9c-abca2fbdc8eb",
+      "createdAt": "2025-12-09T04:28:04.617Z",
+      "updatedAt": "2025-12-09T04:28:57.696Z",
+      "status": "DRAFT"
+    }
+  ]
+}
